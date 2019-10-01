@@ -1,0 +1,182 @@
+.body {
+    
+}
+.container {
+    width: 1080px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.bar {
+    height: 10px;
+    background-color: darkolivegreen;
+    margin-bottom: 50px;
+}
+
+ul {
+    text-align: center;
+}
+ul li {
+    list-style: none;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ul li a {
+    font-size: 24px;
+    text-decoration: none;
+    font-family: Avenir;
+    color: black;
+}
+
+h1 {
+    font-family: Avenir;
+    padding-left: 390px;
+    font-size: 40px;
+    color: darkolivegreen
+}
+
+.intro_img {
+    margin-bottom: -4px;
+    padding: 10px
+}
+
+h2 {
+    font-family: Avenir;
+}
+
+.white1 {
+    background-color: darkseagreen;
+    padding: 10px;
+    margin: 60px;
+}
+
+.speachbubble {
+    background-color: darkseagreen;
+    float: right;
+    margin-right: 500px;
+    margin-top: -166px;
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+}
+
+.speachtext {
+    font-family: Avenir;
+    font-size: 13px;
+    text-align: center;
+}
+
+.bar2 {
+    height: 10px;
+    background-color: darkseagreen;
+    margin-top: -11px;
+    width: 980px;
+    margin-left: 35px; 
+    float: left;
+}
+
+.biology {
+    padding: 20px;
+    background-color: white;
+    line-height: 40px
+}
+
+.biotext {
+    font-family: Avenir;
+    font-size: 13px
+}
+
+.behavior {
+    padding: 20px;
+    background-color: darkseagreen;
+    float: left;
+}
+
+.behavior_img {
+    margin: -20px;
+    float: left;
+}
+
+.behaviortext {
+    font-family: Avenir;
+    line-height: 40px;
+    font-size: 13px;
+    margin-left: 450px;
+}
+
+.ecology {
+    padding: 20px;
+    background-color: white;
+    float: right;
+}
+
+.map_img {
+    float: right;
+    margin: -20px;
+    padding-left: 40px;
+}
+
+.ecologytext {
+    font-family: Avenir;
+    font-size: 13px;
+    line-height: 40px;
+    margin-top: 20px;
+}
+
+.diet {
+    padding: 20px;
+    background-color: darkseagreen;
+    float: left;
+}
+
+.diet_img {
+    float: left;
+    margin: -20px;
+    margin-top: -120px;
+    margin-bottom: -180px;
+}
+
+.diettext {
+    font-family: Avenir;
+    font-size: 13px;
+    line-height: 40px;
+    margin-left: 410px
+}
+
+.humans {
+    padding: 20px;
+    background-color: white;
+}
+
+.humans_img {
+    float: right;
+    margin-top: -116px;
+    margin-right: -119px;
+}
+
+.humanstext {
+    font-family: Avenir;
+    font-size: 13px;
+    line-height: 40px;
+    float: left;
+}
+
+.footer {
+    }
+
+.footertext {
+    padding: 10px;
+    font-family: Avenir;
+    text-align: center;
+    font-size: 11px;
+}
+.footertext span {
+    background-color: darkseagreen;
+    padding: 5PX;
+
+}
+
+.clear {
+    clear: both;
+}
